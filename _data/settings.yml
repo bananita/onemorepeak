@@ -39,10 +39,10 @@ hero:
   hero-title: Cześć! 👋<br>Jestem przewodnikiem górskim
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/onemorepeak/" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/1morepeak/" }
+  # - { icon: "ti-dribbble", link: "#" }
+  # - { icon: "ti-twitter", link: "#" }
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/michał-banasiak-74841a5b/" }
 
 #-------------------------------
